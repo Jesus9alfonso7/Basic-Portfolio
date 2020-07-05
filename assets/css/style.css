@@ -1,0 +1,134 @@
+header {
+  background-color: white;
+  width: auto;
+  padding: 0px;
+
+}
+
+.clearfix {
+display: flow-root;
+}
+
+
+h1 {
+  background-color: #4aaaa5;
+   float: left;
+   margin-top: auto;
+   width: auto;
+   margin-bottom: auto;
+   padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    color: white;
+
+}
+
+nav {
+   float: right; 
+   width: auto;
+   margin-bottom: auto;  
+}
+
+#ref {
+    font-size: large;
+    width: auto;
+    padding: 20px;
+    margin-top: auto;
+    text-decoration:none;
+    color: #4aaaa5;
+
+}
+
+hr {
+    border: none;
+    border-top: 2px solid #333;
+    color: #333;
+    overflow: visible;
+    height: 5px;
+}
+
+.fondo{
+   padding: 40px;
+    background-color: #dddddd;
+    
+    border-top: 30px #777777;
+}
+
+.container{
+  background-color: white;
+  width: 960px;
+  margin: 0 auto;
+  padding: 0px;
+}
+.containerbody{
+  background-color: white;
+  width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.largeimput{
+  width: 960px;
+  
+}
+.largeimputmess{
+  width: 960px;
+  height: 200px;
+  
+}
+
+.boton {
+  background-color: #4aaaa5;
+
+   padding-left: 20px;
+    padding-right: 20px;
+
+    color: white;
+
+}
+
+.imagen{
+  float: left;
+  
+  position: relative;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+  
+}
+.textoimagen{
+  text-decoration:none;
+  background-color: #4aaaa5;
+  position: absolute;
+  bottom: 1%;
+    left: 10.5%;
+
+    width: 150px;
+    height: 20px;
+
+    padding-bottom: 5px;
+    padding-top: 5px;
+    color: white;
+}
+
+.nosubrayado{
+  text-decoration: none;
+}
+.imgportafolio{
+  display: flex;
+}
+
+.flex{
+  display: flex;
+
+}
+
+.imgmine{
+  
+  float:left;
+  padding-left:40px;
+  width: auto;
+   margin-bottom: auto;  
+}
